@@ -12,7 +12,6 @@ It aligns with UN SDG 16 – Peace, Justice, and Strong Institutions.
 - Python 3.x installed
 - VS Code IDE
 - Internet connection
-- Required libraries installed (transformers, torch, flask, etc.)
 
 ### Setup Instructions
 1. Clone or download this repository to your local system.
